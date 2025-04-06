@@ -1,0 +1,1 @@
+Any thing that carry dgigital data it uses Drescreate value ( 0 , 1 )
