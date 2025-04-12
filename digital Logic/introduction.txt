@@ -1,1 +1,8 @@
-Any thing that carry dgigital data it uses Drescreate value ( 0 , 1 )
+Any thing that carry digital data it uses Drescreate value ( 0 , 1 )
+
+Digital systems -- any systems that use digital signal to communicate 
+
+Anolog signal 
+digital signal
+
+
