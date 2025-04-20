@@ -5,4 +5,4 @@ Digital systems -- any systems that use digital signal to communicate
 Anolog signal 
 digital signal
 
-
+an Anolog signal is any contioous time signal represwntong some other quantity
